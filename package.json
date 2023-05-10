@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "env": "^0.0.2",
+    "express": "^4.18.2",
+    "firebase": "^9.21.0",
+    "request": "^2.88.2"
+  },
+  "name": "newsletter-sign-up",
+  "version": "1.0.0",
+  "description": "This is a news letter sign up page using mailchimp api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Srajal Dwivedi",
+  "license": "ISC"
+}
